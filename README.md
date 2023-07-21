@@ -25,3 +25,10 @@ Customer Retention Strategies: -Focus on retaining high-value customers by provi
 Cross-selling and Upselling: -Use data from high-value customers to identify potential cross-selling and upselling opportunities. -Recommend complementary products or higher-priced items based on their purchase history.
 
 Referral Programs: -Encourage high-value customers to refer friends and family to the company by offering referral rewards or discounts. Word-of-mouth referrals from loyal customers can drive new business.
+
+
+Dataset Information:
+
+Dataset Name: Online Retail
+Source: UCI Machine Learning Repository
+Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail
