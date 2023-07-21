@@ -30,5 +30,7 @@ Referral Programs: -Encourage high-value customers to refer friends and family t
 Dataset Information:
 
 Dataset Name: Online Retail
+
 Source: UCI Machine Learning Repository
+
 Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail
