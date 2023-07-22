@@ -27,7 +27,7 @@ Cross-selling and Upselling: -Use data from high-value customers to identify pot
 Referral Programs: -Encourage high-value customers to refer friends and family to the company by offering referral rewards or discounts. Word-of-mouth referrals from loyal customers can drive new business.
 
 
-Dataset Information:
+Dataset Information: This is a transnational data set that contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 Dataset Name: Online Retail
 
