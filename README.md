@@ -25,7 +25,13 @@ Profiling: Create customer profiles for each segment, describing their demograph
 
 # Recommendations based on Output
 
-Based on the RFM analysis, we have identified high-value customers who exhibit consistent and substantial purchase behavior. These customers are crucial for the company's revenue and can significantly impact business growth. Here are actionable recommendations for the marketing and sales teams to improve customer engagement, personalized marketing, and loyalty programs:
+Performed RFM Analysis - RFM analysis is a way to use data based on existing customer behavior to predict how a new customer is likely to act in the future. An RFM model is built using three key factors:
+
+1. How recently a customer has transacted with a brand
+2. How frequently they’ve engaged with a brand
+3. How much money they’ve spent on a brand’s products and services
+   
+Based on the RFM analysis, I have identified high-value customers who exhibit consistent and substantial purchase behavior. These customers are crucial for the company's revenue and can significantly impact business growth. Here are actionable recommendations for the marketing and sales teams to improve customer engagement, personalized marketing, and loyalty programs:
 
 Personalized Marketing Campaigns: -Utilize the RFM segments to create targeted marketing campaigns for each customer segment. Customize offers, discounts, and promotions based on their purchase behavior. -Send personalized emails and product recommendations based on each customer's interests and past purchases to increase engagement and drive repeat purchases.
 
